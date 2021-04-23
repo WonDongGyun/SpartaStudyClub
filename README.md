@@ -12,7 +12,7 @@
 - 스터디 그룹 내 게시판을 활용하여 정보를 교류하거나 응원의 메세지를 남길 수 있습니다!
 
 ## 프로젝트 설명
-
+>시간 내에 모든 목표를 달성하세요! 학습 목표를 확실하게 관리해드립니다!
 
 ### 사용 기술
 Node.js, TypeScript, NestJS, Websocket(ws), Mysql, TypeORM, JWT, Rest API
@@ -29,4 +29,4 @@ Node.js, TypeScript, NestJS, Websocket(ws), Mysql, TypeORM, JWT, Rest API
 - https://github.com/miniPinetree/Sparta-Study-Club
 
 ### 상세 페이지 (프로젝트 진행 과정)
-- https://www.notion.so/d29d9532365a4862a555e63693afb8b7
+- https://www.notion.so/d29d9532365a4862a555e63693afb8b7  
