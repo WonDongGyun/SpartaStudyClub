@@ -178,7 +178,7 @@ TypeOrm의 공식 깃허브에서도 createQueryBuilder의 사용을 권장하�
 <br/>
 <br/>
 
-### 1. Try Catch문의 error 메시지 보완
+### Try Catch문의 error 메시지 보완
 
 Try Catch문을 신경쓰지 않고 막 쓰고, error 발생 시 메시지를 전부 fail로 통일해서 사용했습니다.  
 그런식으로 작업을 진행하다 보니 테스트를 해도 어디서 오류가 났는지 알기 힘들었고, 어떤 오류인지 확인하기 힘들었습니다.  
