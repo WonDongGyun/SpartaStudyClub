@@ -166,7 +166,7 @@ TypeOrm도 find, findOne 메서드 등을 지원하며, 이런 메서드들만 �
 하지만 조금 복잡한 조건의 조인이 들어가거나, 쿼리가 깊어지는 경우는 TypeOrm의 createQueryBuilder로 해결하시길 바랍니다.  
 TypeOrm의 공식 깃허브에서도 createQueryBuilder의 사용을 권장하고, 궁금한 게 있어서 글을 올려도 거의 대부분 createQueryBuilder를 사용하는 방법을 알려주셨습니다.  
 
-[**TypeOrm 번역 블로그**](https://yangeok.github.io/orm/2020/12/14/typeorm-decorators.html)
+[**TypeOrm 번역 블로그**](https://yangeok.github.io/orm/2020/12/14/typeorm-decorators.html)  
 [**TypeOrm 공식 깃허브**](https://github.com/typeorm/typeorm/blob/master/docs/select-query-builder.md)
 
 <br/>
